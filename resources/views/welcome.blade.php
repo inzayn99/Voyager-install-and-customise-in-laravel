@@ -12,6 +12,6 @@
 
     </head>
     <body class="antialiased">
-        <h1> Welcome to Voyager frontend</h1>
+        <h1> Welcome to voyager</h1>
     </body>
 </html>
